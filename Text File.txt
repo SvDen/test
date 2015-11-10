@@ -1,9 +1,13 @@
 My test text file!!!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 DEVELOP SOMETHING
 =======
 HELLO UNIVERSE
 
 OLYAS develop
 >>>>>>> f9709ef... Changes in text and html
+=======
+DEVELOP SOMETHING
+>>>>>>> denys_develop
